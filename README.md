@@ -1,1 +1,1 @@
-# college-chatbot
+# college-chatbot college
